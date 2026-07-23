@@ -1,6 +1,6 @@
 # Nyaa Anime BR
 
-Nyaa Anime BR é um addon para o Stremio que busca torrents do **Nyaa.si** contendo **legendas em português** para animes.
+Nyaa Anime BR é um addon para o Stremio que busca torrents do **Nyaa.si** contendo **legendas em português**.
 
 Este repositório **não contém o código-fonte do addon**. Ele existe apenas para centralizar o registro de bugs, sugestões e discussões da comunidade.
 
